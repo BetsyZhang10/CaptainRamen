@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to my developing portfolio!  
+I am currently learning web development.  
+Fun Fact: I love ramen and sushi. My favorite movie series is Star Trek.
